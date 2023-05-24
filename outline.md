@@ -23,7 +23,7 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 ```
 
-##Instructions:
+## Instructions:
 
 1) As the new researcher in a pharmaceutical company, one of the most promising developments involves extracting the native oils from Iris flowers. Lucky for us we have a previous dataset of Iris flowers (all 3 species) with measurements of their sepal and petal lengths and widths. Your task is to develop a method to distinguish them for any future flower.
 
